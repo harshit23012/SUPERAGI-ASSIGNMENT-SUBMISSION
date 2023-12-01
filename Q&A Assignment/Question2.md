@@ -22,9 +22,7 @@ Let's calculate this using a z-test for proportions for each template compared t
 1. The z-score can be calculated using the formula: 
 
 
-	$
-z=\frac{p_{1}-p_{2}}{\sqrt{p(1-p)(\frac{1}{n_{1}}+\frac{1}{n_{2}})}}
-$
+	$z=\frac{p_{1}-p_{2}}{\sqrt{p(1-p)(\frac{1}{n_{1}}+\frac{1}{n_{2}})}}$
 
 $p_{1}$ and $p_{2}$ are the CTRs of the two templates being compared.
 p is the pooled proportion, $p = \frac{(x_{1} + x_{2})}/{(n_{1} + n_{2})}$ where $x_{1}$ and $x_{2}$ are the number of clicks for each template, and $n_{1}$ and $n_{2}$ are the number of emails sent for each template. 
